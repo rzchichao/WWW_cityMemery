@@ -1,0 +1,9 @@
+.home_aside{
+    border: 1px solid red;
+    position: absolute;
+    top: 70px;
+    left:12%;
+    padding-top: 50px;
+    min-height: 100%;
+    width: 80px;
+}
